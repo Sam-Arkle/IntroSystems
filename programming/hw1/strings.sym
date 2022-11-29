@@ -1,0 +1,34 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	FC_END                  301D
+//	FC_R1                   3022
+//	FC_R2                   3023
+//	FC_R3                   3024
+//	FC_R3Z                  3021
+//	FC_TOP                  3013
+//	FINDCHAR                300D
+//	FINDLAST                3004
+//	FL_END                  3009
+//	FL_R1                   300C
+//	FL_TOP                  3005
+//	FOUND                   301C
+//	NEG_1                   3025
+//	NOTFOUND                301A
+//	SC_END                  3031
+//	SC_R0                   3036
+//	SC_R1                   3037
+//	SC_R2                   3038
+//	SC_R7                   3039
+//	SC_TOP                  302B
+//	STRCAT                  3026
+//	TOUPPER                 303A
+//	TU_END                  304C
+//	TU_INC                  304A
+//	TU_R0                   3052
+//	TU_R1                   3053
+//	TU_R2                   3054
+//	TU_R3                   3055
+//	TU_R4                   3056
+//	TU_TOP                  3041
+//	TU_a                    3057
+//	TU_z                    3058
